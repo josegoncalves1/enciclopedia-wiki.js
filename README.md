@@ -24,18 +24,18 @@ Com **200+ exemplos funcionais** prontos para usar.
 
 ## 📚 DOCUMENTOS CRIADOS
 
-### 10 Categorias Completas (3 já criadas!)
+### 10 Categorias Completas
 
 1. ✅ **Instalação & Setup** (Docker, K8s, Bare Metal)
 2. ✅ **GitLab Integration** (OAuth2, Git Sync, CI/CD)
 3. ✅ **Organização & Estrutura** (IA, Templates, i18n)
-4. 📄 **Workflows & Colaboração** (Editorial, Reviews, Discussions)
-5. 📄 **Segurança & Permissões** (RBAC, Groups, Audit)
-6. 📄 **Customização & Design** (Themes, CSS, Plugins)
-7. 📄 **Content Management** (Bulk ops, Media, Migration)
-8. 📄 **Performance & Scaling** (Cache, DB optimization)
-9. 📄 **Automação & CI/CD** (Publishing, Validation, Build)
-10. 📄 **Operações & Manutenção** (Daily ops, Backup, Monitoring)
+4. ✅ **Workflows & Colaboração** (Editorial, Reviews, Discussions)
+5. ✅ **Segurança & Permissões** (RBAC, Groups, Audit)
+6. ✅ **Customização & Design** (Themes, CSS, Plugins)
+7. ✅ **Content Management** (Bulk ops, Media, Migration)
+8. ✅ **Performance & Scaling** (Cache, DB optimization)
+9. ✅ **Automação & CI/CD** (Publishing, Validation, Build)
+10. ✅ **Operações & Manutenção** (Daily ops, Backup, Monitoring)
 
 ---
 
