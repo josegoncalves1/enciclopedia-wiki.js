@@ -2,6 +2,8 @@
 
 **Versão:** 1.0 | **Data:** 2026 | **Público:** Technical Writers, DevOps, Knowledge Engineers
 
+**Autor:** José G.
+
 ---
 
 ## 🎯 OBJETIVO
