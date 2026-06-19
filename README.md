@@ -1,12 +1,12 @@
-# 📚 WIKI.JS + GITLAB — ENCICLOPÉDIA COMPLETA
+# 📚 ENCICLOPÉDIA WIKI.JS + GITLAB UNIVERSAL
 
-**A solução tudo-em-um para documentação moderna, colaborativa e sincronizada**
+**Versão:** 1.0 | **Data:** 2026 | **Público:** Technical Writers, DevOps, Knowledge Engineers
 
 **Autor:** José G.
 
 ---
 
-## ⚡ O Que Você Tem Aqui
+**A solução tudo-em-um para documentação moderna, colaborativa e sincronizada**
 
 Uma **referência profissional COMPLETA** para usar **Wiki.js integrado com GitLab** como:
 
